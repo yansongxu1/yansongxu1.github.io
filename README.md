@@ -1,4 +1,7 @@
 # [Yansong XU]
 ## interests:
 DEEP LEARNING
-Navigation, ETA
+
+Navigation
+
+ETA
